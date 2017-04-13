@@ -90,6 +90,6 @@ service-worker: true
 friends: [
     {
         title: "Yu",
-        href: "http://my.csdn.net/y505772146"
+        href: "http://blog.csdn.net/y505772146"
     }
 ]
