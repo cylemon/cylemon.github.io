@@ -47,12 +47,12 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: disqus_cylemon
+#disqus_username: disqus_cylemon
 
 # Duoshuo settings
 #duoshuo_username: yang chen
 # Share component is depend on Comment so we can NOT use share only.
-disqus_share: true                     # set to false if you want to use Comment without Sharing
+#disqus_share: true                     # set to false if you want to use Comment without Sharing
 
 
 
