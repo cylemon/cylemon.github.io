@@ -4,7 +4,7 @@ title:      "白日梦想家"
 subtitle:   "理想，一半在于勇气"
 date:       2017-04-27 12:00:00
 author:     "Cy"
-header-img: "img/post-bg-17-04-28.jpg"
+header-img: "img/post-bg-17-04-28.JPG"
 header-mask: 0.3
 catalog:    true
 tags:
