@@ -8,7 +8,7 @@ header-img: "img/post-bg-17-04-20.jpg"
 header-mask: 0.3
 catalog:    true
 tags:
-    - 随笔
+    - 科技
     - 软文
 ---
 

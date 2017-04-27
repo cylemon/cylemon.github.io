@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "聊聊癌症[The Cancers!]"
+title:      "聊聊癌症「The Cancers!」"
 subtitle:   "直面恐惧"
 date:       2017-04-23 12:00:00
 author:     "Cy"
