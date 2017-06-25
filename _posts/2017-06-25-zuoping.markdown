@@ -1,0 +1,44 @@
+---
+layout:     post
+title:      "solidworks笔记"
+subtitle:   "练手"
+date:       2017-06-25 12:00:00
+author:     "Cy"
+header-img: "img/post-bg-17-06-25.jpg"
+header-mask: 0.3
+catalog:    true
+tags:
+    - 随笔
+    - 软文
+---
+
+
+
+> 展示
+
+
+## 旋翼
+
+![六旋翼](/img/post-17-06-25-1.jpg)                               ![双旋翼](/img/post-17-06-25-2.jpg)
+
+## 钻子和转子
+
+![钻子](/img/post-17-06-25-3.jpg)![涡轮转子](/img/post-17-06-25-4.jpg)
+
+## 捕食者
+
+![捕食者](/img/post-17-06-25-5.jpg)![捕食者](/img/post-17-06-25-6.jpg)
+
+## 机器手
+
+![机器手](/img/post-17-06-25-7.jpg)![机器手](/img/post-17-06-25-8.jpg)
+
+## 底盘
+
+![底盘](/img/post-17-06-25-9.jpg)![底盘](/img/post-17-06-25-10.jpg)
+
+
+
+
+
+
